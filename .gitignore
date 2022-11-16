@@ -1,4 +1,5 @@
 node_modules/
-.DS_Store // only include this if you are on a Mac
+.DS_Store // 
 dist/
 coverage/
+.env
